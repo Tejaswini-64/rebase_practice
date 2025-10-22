@@ -2,3 +2,4 @@
 2nd line from main
 3rd line from main
 1st line from branch_2
+2nd line from branch_2
